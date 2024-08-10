@@ -1,6 +1,6 @@
 ﻿#Requires AutoHotkey v2.0
 #HotIf WinActive("ahk_class CabinetWClass")
-!d::
+!d::[![]
 {
     Send "{F2}"
     Send "^{Home}"
